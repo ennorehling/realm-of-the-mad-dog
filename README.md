@@ -1,4 +1,4 @@
-Realm-Of-the-Mad-Dog
+Realm of the Mad Dog
 ====================
 
-Realm of The Mad Dog
+This game was written at Hack the Future 5, a hackathon for kids. http://hackthefuture.org/
