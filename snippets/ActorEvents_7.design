@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <event-collide-actortogroup comment="false" x="8" y="44">
+            <group eventID="1" id="-1">
+                <die comment="false" x="19" y="76">
+                    <collide-member-of-group comment="false" id="0" x="0" y="0"/>
+                </die>
+                <scene-reload-new comment="false" x="19" y="108">
+                    <int id="0" val="0"/>
+                    <int id="1" val="0.5"/>
+                    <int id="2" val="0"/>
+                    <int id="3" val="0.5"/>
+                </scene-reload-new>
+            </group>
+            <ACTOR eid="this" id="0"/>
+            <GROUP eid="0" id="1"/>
+        </event-collide-actortogroup>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>
